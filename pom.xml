@@ -24,6 +24,7 @@ accordingly
   <url>http://YourGitHubUserInLowerCase.github.io/PortlandStateJavaSummer2022</url>
 
   <modules>
+    <module>MarsRoverRoom3</module>
   </modules>
 
   <inceptionYear>2022</inceptionYear>
